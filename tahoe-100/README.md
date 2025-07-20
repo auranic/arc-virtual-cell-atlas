@@ -19,6 +19,8 @@ Tahoe-100
 
 ## obs (cell) metadata
 
+Here's the table formatted with consistent spacing:
+
 | Column Name            | Description                                                            |
 |------------------------|------------------------------------------------------------------------|
 | **plate**              | Plate identifier                                                       |
